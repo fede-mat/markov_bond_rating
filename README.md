@@ -9,7 +9,7 @@ This project analyzes the stochastic evolution of US bond ratings using a Markov
 - Simulation of bond rating transitions over 100 steps.
 
 ## Work in Progress
-Please note that this project is a **work in progress**. As I am currently attending a course on **Stochastic Dynamic Models** this semester, further refinements and insights will be incorporated as I deepen my understanding of the subject. 
+Please note that this project is a **work in progress**. As I am currently attending a course on **Stochastic Dynamic Models** this semester, further refinements and insights will be incorporated. 
 
 ## Future Improvements
 - Incorporation of advanced stochastic modeling techniques.
